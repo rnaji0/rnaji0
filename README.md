@@ -1,6 +1,6 @@
 ## Hi there, I'm Rami!
 
-I study CS at Georgia Tech with a focus on Systems, and I currently work at AWS on the Aurora Global Database team. Most of my work and interests surround the flow and movement of data; I'm particularly drawn to the performance of data replication across distributed services. 
+I study CS at Georgia Tech with a focus on Systems, and I'm currently interning at AWS on the Aurora Global Database team. Most of my work and interests surround the flow and movement of data; I'm particularly drawn to the performance of data replication across distributed services. 
 
 I'm currently interested in DB engines that couple concurrency to the actual write mechanism, deferring conflict resolution optimistically.
 
