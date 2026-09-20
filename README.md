@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi there, I'm Rami!
 
+I study CS at Georgia Tech with a focus on Systems, and I currently work at AWS on the Aurora Global Database team. Most of my work and interests surround the flow and movement of data; I'm particularly drawn to the performance of data replication across distributed services. 
+
+I'm currently interested in DB engines that couple concurrency to the actual write mechanism, deferring conflict resolution optimistically.
+
+✉️ Feel free to reach me @ rnaji3@gatech.edu
 <!--
 **rnaji0/rnaji0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
