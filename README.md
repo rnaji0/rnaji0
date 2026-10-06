@@ -1,6 +1,6 @@
 ## Hi there, I'm Rami!
 
-I study CS at Georgia Tech with a focus on Systems, and I'm currently interning at AWS on the Aurora Global Database team. 
+I study CS at Georgia Tech with a focus on Systems.
 
 ✉️ Feel free to reach me @ rnaji3@gatech.edu
 <!--
